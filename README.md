@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kavin</h1>
 <h3 align="center">Passionate Full Stack Developer from India</h3>
-<img  alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:750/format:webp/1*i6OnUmnsoJWPwp6AvE3uRw.gif">
+<img align="center"  alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:750/format:webp/1*i6OnUmnsoJWPwp6AvE3uRw.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
